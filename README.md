@@ -7,4 +7,4 @@ With this mod, crafting is so much better! I added recipes that help you craft a
 Just head over to our [wiki](https://github.com/Vlkos77/QOL-Recipes/wiki), everything is listed there!
 
 ## Where can I download the mod?
-On our [modrinth page](https://modrinth.com/mod/qolrecipes/))!
+On our [modrinth page](https://modrinth.com/mod/qolrecipes/)!
